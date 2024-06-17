@@ -1,6 +1,13 @@
 # Desafio-1-HelloWorld
 Aplicação simples em Node.js (Express)
 
+Execução: 
+    - install packages
+
+    - Configurar .env 
+
+## iniciar 
+    - npm run startDev
 
 Proposta -
 ## Imagine que você é um desenvolvedor em uma startup de tecnologia inovadora. Sua equipe está construindo um novo serviço web e precisa garantir que a infraestrutura esteja configurada corretamente para lidar com solicitações HTTP e responder com dados JSON.
