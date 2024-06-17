@@ -2,11 +2,11 @@
 Aplicação simples em Node.js (Express)
 
 Execução: 
-    - install packages
+    - install packages-> npm ci
 
-    - Configurar .env 
+    - Configurar .env -> PORT
 
-## iniciar 
+## iniciar
     - npm run startDev
 
 Proposta -
